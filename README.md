@@ -12,7 +12,7 @@ Projeto desenvolvido em IMT durante graduacao do curso de Sistemas da Informacao
 ## Cronograma de Entregas Baseado em Branchs:
 - main: sera utilizada e atualizada no momento em que projeto for totalmente concluido para evitar conflitos de versoes, a versao final do projeto consta de a links de documentacao, anexos informativos, manuais da plataforma, branding book, codigo desenvolvido para solucao e link de solucao digital funcional formando assim um software completo que inclue alguns anexos extras associado a design, marketing e modelos de negocios.
 - pre-main: sera utilizada para subir desenvolvimento das branchs parciais desenvolvidas durante o projeto a fim de unicar uma rama previa a versao concluida do projeto, esta ultima versao sera a que sera mergeada em branch main
-- wip-00-scafoldding: Formaliza a criacao de diretorios do projeto e diretorios para conteudo associado juntamente ao README.md proprio do diretorio com detalhes do segmento, este README sera desenvolvido conforme segmento for implementado.
+- wip-00-scaffolding-setup: Formaliza a criacao de diretorios do projeto e diretorios para conteudo associado juntamente ao README.md proprio do diretorio com detalhes do segmento, este README sera desenvolvido conforme segmento for implementado.
 - wip-01-docs: Inclui link com documentacao em construcao do projeto e em versao final do documento sera incluido uma versao de documento em pdf ou link de pdf publicado com versao final da documentacao em caso de necessidade inclui links com conteudo adicional associado a documentacao 
 - wip-02-design: Inclui branding, prototipos, flows e style-guide para o projeto
 - wip-03-maketado: Inclui desenvolvimento de maketas front-end em html, css e js sem integracao com backend de aplicacao
