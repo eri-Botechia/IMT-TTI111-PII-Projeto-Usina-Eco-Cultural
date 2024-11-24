@@ -1,0 +1,31 @@
+@media screen and (max-width: 920px) {
+    .hero{
+        display: flex;
+        flex-flow: column wrap;
+        align-items: center;
+        justify-content: space-between;
+        height: 100%;
+        max-height: 100vh;
+    }
+    
+
+    .hero-blog-header{
+        display:grid;
+        margin-top: -8vh;
+        height: 100%;
+        grid-template-columns:1fr;
+        grid-template-rows:repeat(2, 35vh);
+        padding: 2rem;
+      
+    }
+
+    .hero-blog-header .carrousel-item, .slider-title{
+        display: flex;
+        flex-flow: row wrap;
+        height: 100%;
+        align-items: center;
+        justify-content: space-around;
+    }
+    
+
+}

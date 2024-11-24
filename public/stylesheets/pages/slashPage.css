@@ -1,0 +1,32 @@
+.box-container{
+    display: grid;
+    height: 100%;	
+    min-height: 90vh;
+    width: 100%;
+    max-width: 1fr;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    overflow: hidden;
+    max-height: 91vh;
+}
+
+
+.box-content ul{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-around;
+    max-height: 100%;
+    max-width: 100%;
+    align-items: center;
+}
+
+
+.box-content ul li a img {
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 99999;
+    overflow: hidden;
+}
